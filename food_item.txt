@@ -1,0 +1,5 @@
+if Hungry = "Yes"
+   print "eat rice"
+   print "eat daal"
+else 
+   print "i am not hungry"
